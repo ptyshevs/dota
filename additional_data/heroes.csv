@@ -1,0 +1,118 @@
+HeroID,tag,AttributePrimary,AttackCapabilities,Role,Rolelevels,Complexity
+38,beastmaster,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Initiator', 'Disabler', 'Durable', 'Nuker']","['2', '2', '2', '1']",2
+8,juggernaut,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Pusher', 'Escape']","['2', '1', '1']",1
+41,faceless_void,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Initiator', 'Disabler', 'Escape', 'Durable']","['2', '3', '2', '1', '1']",2
+2,axe,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Initiator', 'Durable', 'Disabler', 'Jungler']","['3', '3', '2', '2']",1
+25,lina,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Carry', 'Nuker', 'Disabler']","['1', '1', '3', '1']",1
+66,chen,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Jungler', 'Pusher']","['2', '3', '2']",3
+33,enigma,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Disabler', 'Jungler', 'Initiator', 'Pusher']","['2', '3', '2', '2']",2
+31,lich,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Nuker']","['3', '2']",1
+9,mirana,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Support', 'Escape', 'Nuker', 'Disabler']","['1', '1', '2', '1', '1']",2
+53,furion,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Jungler', 'Pusher', 'Escape', 'Nuker']","['1', '3', '3', '1', '1']",2
+3,bane,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Disabler', 'Nuker', 'Durable']","['2', '3', '1', '1']",2
+4,bloodseeker,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Disabler', 'Jungler', 'Nuker', 'Initiator']","['1', '1', '1', '1', '1']",1
+5,crystal_maiden,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Disabler', 'Nuker', 'Jungler']","['3', '2', '2', '1']",1
+10,morphling,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Escape', 'Durable', 'Nuker', 'Disabler']","['3', '3', '2', '1', '1']",3
+1,antimage,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Escape', 'Nuker']","['3', '3', '1']",1
+55,dark_seer,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_MELEE_ATTACK,"['Initiator', 'Jungler', 'Escape', 'Disabler']","['1', '1', '1', '1']",1
+23,kunkka,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Support', 'Disabler', 'Initiator', 'Durable', 'Nuker']","['2', '1', '2', '2', '1', '1']",2
+36,necrolyte,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Nuker', 'Durable', 'Disabler']","['1', '2', '1', '1']",1
+54,life_stealer,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Durable', 'Jungler', 'Escape', 'Disabler']","['2', '2', '1', '1', '1']",2
+7,earthshaker,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Support', 'Initiator', 'Disabler', 'Nuker']","['1', '3', '2', '1']",2
+69,doom_bringer,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Disabler', 'Initiator', 'Durable', 'Nuker']","['1', '2', '2', '2', '1']",2
+26,lion,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Disabler', 'Nuker', 'Initiator']","['2', '3', '3', '2']",1
+50,dazzle,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Nuker', 'Disabler']","['3', '1', '1']",1
+58,enchantress,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Jungler', 'Pusher', 'Durable', 'Disabler']","['2', '3', '2', '1', '1']",2
+49,dragon_knight,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Pusher', 'Durable', 'Disabler', 'Initiator', 'Nuker']","['2', '3', '2', '2', '1', '1']",1
+52,leshrac,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Support', 'Nuker', 'Pusher', 'Disabler']","['1', '1', '3', '3', '1']",1
+6,drow_ranger,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Disabler', 'Pusher']","['2', '1', '1']",1
+68,ancient_apparition,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Disabler', 'Nuker']","['2', '1', '1']",2
+60,night_stalker,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Initiator', 'Durable', 'Disabler', 'Nuker']","['1', '2', '2', '2', '1']",1
+11,nevermore,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Nuker']","['2', '3']",2
+32,riki,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Escape', 'Disabler']","['2', '2', '1']",1
+57,omniknight,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Support', 'Durable', 'Nuker']","['2', '1', '1']",1
+16,sand_king,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Initiator', 'Disabler', 'Support', 'Nuker', 'Escape', 'Jungler']","['3', '2', '1', '2', '2', '1']",2
+13,puck,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Initiator', 'Disabler', 'Escape', 'Nuker']","['3', '3', '3', '2']",2
+45,pugna,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Nuker', 'Pusher']","['2', '2']",2
+15,razor,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Durable', 'Nuker', 'Pusher']","['2', '2', '1', '1']",1
+51,rattletrap,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Initiator', 'Disabler', 'Durable', 'Nuker']","['3', '2', '1', '1']",2
+14,pudge,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Disabler', 'Initiator', 'Durable', 'Nuker']","['2', '2', '2', '1']",2
+18,sven,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Disabler', 'Initiator', 'Durable', 'Nuker']","['2', '2', '2', '2', '1']",1
+17,storm_spirit,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Escape', 'Nuker', 'Initiator', 'Disabler']","['2', '3', '2', '1', '1']",3
+29,tidehunter,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Initiator', 'Durable', 'Disabler', 'Nuker']","['3', '3', '2', '1']",1
+35,sniper,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Nuker']","['3', '1']",1
+27,shadow_shaman,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Pusher', 'Disabler', 'Nuker', 'Initiator']","['2', '3', '3', '2', '1']",1
+28,slardar,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Durable', 'Initiator', 'Disabler', 'Escape']","['2', '2', '2', '1', '1']",1
+34,tinker,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Nuker', 'Pusher']","['1', '3', '2']",2
+63,weaver,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Escape']","['2', '3']",2
+67,spectre,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Durable', 'Escape']","['3', '1', '1']",2
+19,tiny,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Nuker', 'Pusher', 'Initiator', 'Durable', 'Disabler']","['3', '2', '2', '2', '2', '1']",1
+20,vengefulspirit,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Initiator', 'Disabler', 'Nuker', 'Escape']","['3', '2', '2', '1', '1']",1
+47,viper,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Durable', 'Initiator', 'Disabler']","['1', '2', '1', '1']",1
+22,zuus,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,['Nuker'],['3'],1
+59,huskar,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Durable', 'Initiator']","['2', '2', '1']",1
+30,witch_doctor,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Nuker', 'Disabler']","['3', '2', '1']",1
+40,venomancer,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Nuker', 'Initiator', 'Pusher', 'Disabler']","['2', '1', '1', '1', '1']",1
+42,skeleton_king,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Support', 'Durable', 'Disabler', 'Initiator']","['2', '1', '3', '2', '1']",1
+65,batrider,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Initiator', 'Jungler', 'Disabler', 'Escape']","['3', '2', '2', '1']",2
+71,spirit_breaker,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Initiator', 'Disabler', 'Durable', 'Escape']","['1', '2', '2', '2', '1']",1
+62,bounty_hunter,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Escape', 'Nuker']","['2', '1']",1
+75,silencer,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Support', 'Disabler', 'Initiator', 'Nuker']","['1', '1', '2', '2', '1']",2
+74,invoker,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Nuker', 'Disabler', 'Escape', 'Pusher']","['1', '3', '2', '1', '1']",3
+64,jakiro,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Nuker', 'Pusher', 'Disabler']","['1', '2', '2', '1']",1
+43,death_prophet,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Pusher', 'Nuker', 'Disabler']","['1', '3', '1', '1']",1
+70,ursa,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Jungler', 'Durable', 'Disabler']","['2', '1', '1', '1']",1
+76,obsidian_destroyer,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Nuker', 'Disabler']","['2', '2', '1']",2
+37,warlock,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Initiator', 'Disabler']","['1', '2', '1']",1
+12,phantom_lancer,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Escape', 'Pusher', 'Nuker']","['2', '2', '1', '1']",2
+79,shadow_demon,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Disabler', 'Initiator', 'Nuker']","['2', '2', '1', '1']",2
+77,lycan,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Pusher', 'Jungler', 'Durable', 'Escape']","['2', '3', '1', '1', '1']",2
+80,lone_druid,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Pusher', 'Jungler', 'Durable']","['2', '3', '1', '1']",3
+83,treant,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Support', 'Initiator', 'Durable', 'Disabler', 'Escape']","['3', '2', '1', '1', '1']",2
+39,queenofpain,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Nuker', 'Escape']","['1', '3', '3']",2
+21,windrunner,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Support', 'Disabler', 'Escape', 'Nuker']","['1', '1', '1', '1', '1']",2
+61,broodmother,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Pusher', 'Escape', 'Nuker']","['1', '3', '3', '1']",2
+84,ogre_magi,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_MELEE_ATTACK,"['Support', 'Nuker', 'Disabler', 'Durable', 'Initiator']","['2', '2', '2', '1', '1']",1
+81,chaos_knight,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Disabler', 'Durable', 'Pusher', 'Initiator']","['3', '2', '2', '2', '1']",1
+86,rubick,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Disabler', 'Nuker']","['2', '1', '1']",3
+48,luna,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Nuker', 'Pusher']","['2', '2', '1']",1
+91,wisp,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Escape', 'Nuker']","['3', '2', '1']",3
+44,phantom_assassin,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Escape']","['3', '1']",1
+72,gyrocopter,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Nuker', 'Disabler']","['3', '1', '1']",1
+73,alchemist,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Support', 'Durable', 'Disabler', 'Initiator', 'Nuker']","['2', '1', '2', '1', '1', '1']",1
+78,brewmaster,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Initiator', 'Durable', 'Disabler', 'Nuker']","['1', '3', '2', '2', '1']",3
+87,disruptor,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Disabler', 'Nuker', 'Initiator']","['2', '2', '1', '1']",2
+85,undying,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Support', 'Durable', 'Disabler', 'Nuker']","['1', '2', '1', '1']",1
+103,elder_titan,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Initiator', 'Disabler', 'Nuker', 'Durable']","['2', '1', '1', '1']",2
+113,arc_warden,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Escape', 'Nuker']","['3', '3', '1']",3
+119,dark_willow,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Nuker', 'Disabler', 'Escape']","['2', '2', '1', '2']",2
+109,terrorblade,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Pusher', 'Nuker']","['3', '2', '1']",2
+110,phoenix,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Nuker', 'Initiator', 'Escape', 'Disabler']","['1', '3', '2', '2', '1']",2
+104,legion_commander,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Disabler', 'Initiator', 'Durable', 'Nuker']","['1', '2', '1', '1', '1']",1
+108,abyssal_underlord,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Support', 'Nuker', 'Disabler', 'Durable', 'Escape']","['1', '1', '1', '1', '2']",2
+46,templar_assassin,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Escape']","['2', '1']",2
+56,clinkz,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Escape', 'Pusher']","['2', '3', '1']",2
+94,medusa,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Disabler', 'Durable']","['3', '1', '1']",1
+88,nyx_assassin,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Disabler', 'Nuker', 'Initiator', 'Escape']","['2', '2', '2', '1']",2
+105,techies,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Nuker', 'Disabler']","['3', '1']",2
+121,grimstroke,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Nuker', 'Disabler', 'Escape']","['1', '2', '2', '1']",2
+112,winter_wyvern,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Disabler', 'Nuker']","['3', '2', '1']",2
+98,shredder,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Nuker', 'Durable', 'Escape']","['3', '2', '2']",2
+90,keeper_of_the_light,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Nuker', 'Disabler', 'Jungler']","['3', '2', '1', '1']",2
+96,centaur,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Durable', 'Initiator', 'Disabler', 'Nuker', 'Escape']","['3', '3', '1', '1', '1']",1
+111,oracle,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Nuker', 'Disabler', 'Escape']","['3', '3', '2', '1']",3
+114,monkey_king,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Escape', 'Disabler', 'Initiator']","['2', '2', '1', '1']",2
+100,tusk,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Initiator', 'Disabler', 'Nuker']","['2', '2', '1']",1
+93,slark,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Escape', 'Disabler', 'Nuker']","['2', '3', '1', '1']",1
+99,bristleback,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Durable', 'Initiator', 'Nuker']","['2', '3', '1', '1']",1
+89,naga_siren,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Support', 'Pusher', 'Disabler', 'Initiator', 'Escape']","['3', '1', '2', '2', '1', '1']",2
+107,earth_spirit,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Nuker', 'Escape', 'Disabler', 'Initiator', 'Durable']","['2', '2', '1', '1', '1']",3
+120,pangolier,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Nuker', 'Disabler', 'Durable', 'Escape', 'Initiator']","['2', '2', '1', '1', '2', '2']",2
+102,abaddon,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Support', 'Carry', 'Durable']","['2', '1', '2']",1
+97,magnataur,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Initiator', 'Disabler', 'Nuker', 'Escape']","['3', '2', '1', '1']",2
+95,troll_warlord,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_RANGED_ATTACK,"['Carry', 'Pusher', 'Disabler', 'Durable']","['3', '2', '1', '1']",2
+82,meepo,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Escape', 'Nuker', 'Disabler', 'Initiator', 'Pusher']","['2', '2', '2', '1', '1', '1']",3
+129,mars,DOTA_ATTRIBUTE_STRENGTH,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Initiator', 'Disabler', 'Durable']","['1', '2', '2', '3']",1
+101,skywrath_mage,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Nuker', 'Disabler']","['2', '3', '1']",1
+106,ember_spirit,DOTA_ATTRIBUTE_AGILITY,DOTA_UNIT_CAP_MELEE_ATTACK,"['Carry', 'Escape', 'Nuker', 'Disabler', 'Initiator']","['2', '3', '1', '1', '1']",2
+92,visage,DOTA_ATTRIBUTE_INTELLECT,DOTA_UNIT_CAP_RANGED_ATTACK,"['Support', 'Nuker', 'Durable', 'Disabler', 'Pusher']","['1', '2', '1', '1', '1']",3
