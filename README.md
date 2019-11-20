@@ -3,7 +3,7 @@
 [Link](https://www.kaggle.com/c/mlcourse-dota2-win-prediction) to competition.
 [Link](https://www.taskade.com/e/izLoMiUnQoAHWuSE) to TO-DO.
 
-## Problem descriptoin
+## Problem description
 
 Dota is a competitive game, where two teams of five players fight each-other. Before the game starts, each player chooses a hero and spawns on
 his base. Before the creeps appear, there is time to buy items from the shop using initial gold. Then, each player goes to his position on the
