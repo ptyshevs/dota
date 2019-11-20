@@ -1,8 +1,10 @@
 # Dota: Radiant victory prediction
 
 [Link](https://www.kaggle.com/c/mlcourse-dota2-win-prediction) to competition.
+<br />
 [Link](https://www.taskade.com/e/izLoMiUnQoAHWuSE) to TO-DO.
-
+<br />
+[Notebook](./dota2-reproduce.ipynb) to reproduce the results.
 ## Problem description
 
 Dota is a competitive game, where two teams of five players fight each-other. Before the game starts, each player chooses a hero and spawns on
